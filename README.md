@@ -15,6 +15,10 @@ I am pleased to present the initial results of the numerical simulation for the 
 
 **Note:** The fundamental principles of coherence and closure used in MASV applications are derived from the primary "Unified Code of Matter" framework (Timestamped: April 15, 2026).
 
+## Официальная публикация / Official Publication
+Полная теоретическая структура и верификация (110.6%) доступны здесь:
+* **Zenodo DOI:** [10.5281/zenodo.19959621](https://zenodo.org)
+* **ORCID ID:** [0009-0008-6192-2347](https://orcid.org)
 
 
 
